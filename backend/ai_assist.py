@@ -2,7 +2,7 @@ import os
 from groq import Groq
 
 # Set the API key
-os.environ['GROQ_API_KEY'] = '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'
+os.environ['GROQ_API_KEY'] = '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'
 
 class FinSaathiAI:
     def __init__(self):
